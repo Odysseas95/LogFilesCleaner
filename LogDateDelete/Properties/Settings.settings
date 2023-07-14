@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LogDateDelete.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="RootDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\TestDir</Value>
+    </Setting>
+    <Setting Name="DaysBack" Type="System.String" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="IntervalMins" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="LogDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\TestDir</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
