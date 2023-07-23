@@ -55,7 +55,7 @@ Contributions to this project are welcome. If you find any issues or have sugges
 
 ## Authors
 
-- [Your Name](https://github.com/your-username) - Initial implementation
+- [Odysseas Athanasiadis](https://github.com/Odysseas95) - Initial implementation
 
 ## Feedback and Support
 
